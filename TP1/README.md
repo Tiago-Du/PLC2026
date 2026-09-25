@@ -11,7 +11,7 @@
 
 ## Resumo
 
-O objetivo deste trabalho foi arranjar uma expressão regular que detete strings binárias que não contenham a substring 011.
+O objetivo deste trabalho foi chegar a uma expressão regular que detete strings binárias que não contenham a substring 011.
 
 Para garantir que a sequência acima indicada nunca é gerada, a estratégia adotada focou-se em utilizar apenas blocos de construção seguros. Como a sequência começa com 0, qualquer quantidade de 1s no início da palavra é inofensiva, isto é, (1*). Após o primeiro 0, limitamos a construção aos blocos seguros 0 e 01.
 
