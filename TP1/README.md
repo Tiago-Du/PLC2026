@@ -20,3 +20,5 @@ Agrupando e repetindo apenas estes dois blocos, é impossível gerar a sequênci
 ## Lista de Resultados
 
 [Expressão Geral](expressao)
+
+[Código do Regex](testes.py)
